@@ -8,4 +8,4 @@ This is a responsive e-commerce website designed to provide users with a seamles
 - Browse and search for products with ease.
 - Add products to the cart and proceed to checkout.
 
-![ALT TEXT](https://github.com/IshratMim/E-commerce-Website/blob/main/images/blog/b3.jpg)
+![ALT TEXT](https://github.com/IshratMim/E-commerce-Website/blob/main/images/e-commerce1.png)
